@@ -1,2 +1,2 @@
-# boostrap_confidence_interval
-Bootstrap confidence interval.
+# Bootstrap confidence interval
+* Performed Bootstrap confidence interval in kidney project.
